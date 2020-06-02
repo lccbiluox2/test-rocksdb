@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rocksdb-v511-api-demo/rocksdb-v511-api-demo.iml" filepath="$PROJECT_DIR$/rocksdb-v511-api-demo/rocksdb-v511-api-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test-rocksdb.iml" filepath="$PROJECT_DIR$/.idea/test-rocksdb.iml" />
+    </modules>
+  </component>
+</project>
