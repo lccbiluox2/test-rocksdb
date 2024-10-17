@@ -1,10 +1,8 @@
-package com.rocksdb.demo;
+package com.rocksdb.api;
 
 import org.rocksdb.Options;
 import org.rocksdb.RocksDB;
 import org.rocksdb.RocksDBException;
-
-import java.net.URL;
 
 public class GettingStartDemo {
     // 因为RocksDB是由C++编写的，在Java中使用首先需要加载Native库
